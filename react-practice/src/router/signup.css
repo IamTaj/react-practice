@@ -1,0 +1,13 @@
+.container{
+    width: 50%;
+}
+.form{
+    background-color: rgb(240, 240, 240);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 50px;
+    box-shadow: 10px 10px rgb(209, 209, 209);   
+}
+.checkbox1{
+    font-size: medium;
+}
